@@ -9,6 +9,7 @@ const DATA = {
         'AF': 'AIR FRANCE',
         'AI': 'AIR INDIA',
         'BA': 'BRITISH AIRWAYS',
+        '5J': 'CEBU PACIFIC',        
         'EK': 'EMIRATES',
         'LH': 'LUFTHANSA',
         'QR': 'QATAR AIRWAYS',
